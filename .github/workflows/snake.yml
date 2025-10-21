@@ -1,0 +1,52 @@
+name: Generate contribution snake
+
+on:
+  schedule:
+    # Runs every 12 hours
+    - cron: "0 */12 * * *"
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      # This permission is required to commit the snake images back to your repo
+      contents: write 
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate snake (light mode)
+        uses: Platane/snk@v3
+        with:
+          # Your GitHub username
+          github_user_name: Adwaithpv
+          
+          # The path that your README is looking for
+          outputs: output/github-contribution-grid-snake-default.svg
+
+      - name: Generate snake (dark mode)
+        uses: Platane/snk@v3
+        with:
+          # Your GitHub username
+          github_user_name: Adwaithpv
+          palette: github-dark
+          
+          # The path that your README is looking for
+          outputs: output/github-contribution-grid-snake-dark.svg
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add output/github-contribution-grid-snake*.svg
+          # Commit only if there are changes
+          if ! git diff --cached --quiet; then
+            git commit -m "Chore: Update contribution snake 🐍"
+            git push
+          else
+            echo "No changes to snake files."
+          fi
