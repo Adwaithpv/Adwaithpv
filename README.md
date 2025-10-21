@@ -13,17 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <p align="center">
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/Adwaithpv/Adwaithpv"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/python/cpython"><img src="https://img.shields.io/badge/Python-3.11-FF1493.svg"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/graphs/contributors"><img src="https://img.shields.io/github/contributors/vaibhavvikas/vaibhavvikas?color=blue"></a>
-    <a href="https://github.com/vaibhavvikas"><img src="https://img.shields.io/github/stars/vaibhavvikas"></a>
-    <a href="https://github.com/vaibhavvikas/vaibhavvikas/network/members"><img src="https://img.shields.io/github/forks/vaibhavvikas/vaibhavvikas.svg?color=blue&logo=github"></a>
-    <img src="https://visitor-badge.laobi.icu/badge?page_id=vaibhavvikas.vaibhavvikas" alt="visitors"/>
+    <a href="https://github.com/Adwaithpv/Adwaithpv/graphs/contributors"><img src="https://img.shields.io/github/contributors/Adwaithpv/Adwaithpv?color=blue"></a>
+    <a href="https://github.com/Adwaithpv"><img src="https://img.shields.io/github/stars/Adwaithpv"></a>
+    <a href="https://github.com/Adwaithpv/Adwaithpv/network/members"><img src="https://img.shields.io/github/forks/Adwaithpv/Adwaithpv.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=Adwaithpv.Adwaithpv" alt="visitors"/>
 </p>
 
 [![](./src/header_.png)](#)
 
-> <b>I'm a Software Developer who is a highly motivated person with strong technical, problem-solving with excellent time management, leadership, and team skills who is likely to create an impact on the organization/work, I'm a part of and always loves to socialize and experience new things in life. I have a great experience in Python, Flask, Angular, Node, Microservices and Backend Technologies including Machine Learning.</b>\
+> <b>I'm a developer passionate about building intelligent systems with Python and Machine Learning. I'm actively involved in my university's technical club, F.A.S.T. at SRM, where we partner with NVIDIA to explore new technology.
+>
+> My project experience ranges from building agentic AI video editors for DaVinci Resolve and computer vision systems for drones to developing AI-powered data analysis and recruitment platforms. I'm always honing my problem-solving skills with LeetCode challenges.
+>
+> Outside of coding, you'll find me exploring new Indian recipes, listening to hip-hop, or writing rap lyrics.</b>
 
 ## 🛠️ Tech Stack:
 ![Python](https://img.shields.io/badge/-Python-555?style=flat&logo=python)&nbsp;
@@ -50,13 +54,13 @@ Here are some ideas to get you started:
 
 <table>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=vaibhavvikas&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
-        <td rowspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavvikas&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td align="center"><a href="https://github.com/Adwaithpv#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Adwaithpv&show_icons=true&theme=default&include_all_commits=true#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Adwaithpv#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api?username=Adwaithpv&show_icons=true&theme=tokyonight&include_all_commits=true#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td rowspan="2" align="center"><a href="https://github.com/Adwaithpv#gh-light-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adwaithpv&theme=default&langs_count=8#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Adwaithpv#gh-dark-mode-only"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adwaithpv&theme=tokyonight&langs_count=8#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
     <tr>
-        <td align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=default"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhavvikas&theme=tokyonight"/></a></td>
+        <td align="center"><a href="https://github.com/Adwaithpv#gh-light-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adwaithpv&theme=default"/></a><a href="https://github.com/Adwaithpv#gh-dark-mode-only"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Adwaithpv&theme=tokyonight"/></a></td>
     </tr>
     <tr>
-        <td colspan="2" align="center"><a href="https://github.com/vaibhavvikas#gh-light-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/vaibhavvikas#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/vaibhavvikas/vaibhavvikas/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
+        <td colspan="2" align="center"><a href="https://github.com/Adwaithpv#gh-light-mode-only"><img src="https://raw.githubusercontent.com/Adwaithpv/Adwaithpv/output/github-contribution-grid-snake-default.svg#gh-light-mode-only" alt="My GitHub Stats"/></a><a href="https://github.com/Adwaithpv#gh-dark-mode-only"><img src="https://raw.githubusercontent.com/Adwaithpv/Adwaithpv/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="My GitHub Stats"/></a></td>
     </tr>
 </table>
