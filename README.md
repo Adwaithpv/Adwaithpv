@@ -21,7 +21,7 @@ Here are some ideas to get you started:
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Adwaithpv.Adwaithpv" alt="visitors"/>
 </p>
 
-[![](./src/header_.png)](#)
+[![](./header_.png)](#)
 
 > <b>I'm a developer passionate about building intelligent systems with Python and Machine Learning. I'm actively involved in my university's technical club, F.A.S.T. at SRM, where we partner with NVIDIA to explore new technology.
 >
